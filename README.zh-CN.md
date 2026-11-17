@@ -23,7 +23,7 @@
 ## 📥 下载与安装 (Windows)
 
 1. 前往本页面右侧的 **[Releases](../../releases)** 区域。
-2. 下载安装程序 **`Spurtify-Setup-1.0.0.exe`**。
+2. 下载安装程序 **`Spurtify-Setup-1.1.0.exe`**。
 3. 运行下载的文件并按照安装向导完成安装（程序将自动创建桌面快捷方式）。
 
 > **Windows SmartScreen 提示：** 由于本软件为独立开发应用，未通过 Microsoft Store 分发，首次启动时 Windows 可能会弹出安全提示。请点击 **更多信息** → **仍要运行** 以继续安装。

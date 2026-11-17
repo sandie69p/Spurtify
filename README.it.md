@@ -23,7 +23,7 @@
 ## 📥 Download e Installazione (Windows)
 
 1. Vai nella sezione **[Releases](../../releases)** a destra in questa pagina.
-2. Scarica l'installer **`Spurtify-Setup-1.0.0.exe`**.
+2. Scarica l'installer **`Spurtify-Setup-1.1.0.exe`**.
 3. Avvia il file scaricato e segui la procedura guidata (verrà creata automaticamente l'icona sul Desktop).
 
 > **Nota per Windows SmartScreen:** Trattandosi di un'applicazione indipendente non distribuita tramite Microsoft Store, Windows potrebbe mostrare un avviso di protezione al primo avvio. Clicca su **Ulteriori informazioni** → **Esegui comunque** per procedere con l'installazione.
